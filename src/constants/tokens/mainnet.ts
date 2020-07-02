@@ -128,5 +128,6 @@ export default [
   new Token(ChainId.MAINNET, '0x09fE5f0236F0Ea5D930197DCE254d77B04128075', 18, 'WCK', 'Wrapped CryptoKitties'),
   new Token(ChainId.MAINNET, '0xB4272071eCAdd69d933AdcD19cA99fe80664fc08', 18, 'XCHF', 'CryptoFranc'),
   new Token(ChainId.MAINNET, '0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704', 18, 'XIO', 'XIO Network'),
+  new Token(ChainId.MAINNET, '0x40FD72257597aA14C7231A7B1aaa29Fce868F677', 18, 'XOR', 'Sora Token'),
   new Token(ChainId.MAINNET, '0xE41d2489571d322189246DaFA5ebDe1F4699F498', 18, 'ZRX', '0x Protocol Token')
 ]
